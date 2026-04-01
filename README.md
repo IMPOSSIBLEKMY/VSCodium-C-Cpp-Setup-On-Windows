@@ -1,4 +1,4 @@
-# C++ Development with MSYS2, MinGW, Clangd, and VSCodium
+# C++ Development with MSYS2, MinGW, Clangd, and VSCodium on Windows
 
 This guide helps you set up a lightweight and powerful C++ development environment using:
 

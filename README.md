@@ -72,10 +72,13 @@ To make tools like `g++`, `gdb`, and `clangd` globally accessible in VSCodium te
 2. Open your **settings.json**
 or **Ctrl+Shift+P → “Preferences: Open Settings (JSON)”**.
 
-3. Add the following Clangd setting **(clangd.exe path in MinGW)**:
+3. Add the following Clangd setting **(clangd.exe path in MinGW and MinGW C++ libraries)**:
     ```json
     {
-      "clangd.path": "C:/msys64/mingw64/bin/clangd.exe"
+        "clangd.arguments": [
+        "-IC:/msys64/mingw64/include",
+        ],
+        "clangd.path": "C:/msys64/mingw64/bin/clangd.exe",
     }
     ```
 ## Step 5: Run and Debug with C++ Extensions in VSCodium

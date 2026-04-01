@@ -56,7 +56,7 @@ To make tools like `g++`, `gdb`, and `clangd` globally accessible in VSCodium te
 6. Copy and paste the following path **(MinGW bin path)**:
    ```bash
    C:\msys64\mingw64\bin
-   
+    ```
 7. Click **OK** to close all windows and apply changes.
 
 8. After setting the path, open a new **Command Prompt**, **PowerShell**, or **VSCodium terminal** and run these codes to test them if they are accessible in VSCodium terminals and editors:

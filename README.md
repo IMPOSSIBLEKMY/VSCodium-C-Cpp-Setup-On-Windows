@@ -78,7 +78,7 @@ or **Ctrl+Shift+P → “Preferences: Open Settings (JSON)”**.
         "clangd.arguments": [
         "-IC:/msys64/mingw64/include",
         ],
-        "clangd.path": "C:/msys64/mingw64/bin/clangd.exe",
+        "clangd.path": "C:/msys64/mingw64/bin/clangd.exe"
     }
     ```
 ## Step 5: Run and Debug with C++ Extensions in VSCodium

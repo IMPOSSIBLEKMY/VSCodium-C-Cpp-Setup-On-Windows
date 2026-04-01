@@ -96,7 +96,7 @@ or **Ctrl+Shift+P → “Preferences: Open Settings (JSON)”**.
   - Click **Start Compilation**.
   - Then click **Start Debugging**.
 
-## Step 6: Updating All Packages
+## Step 6 (Optional): Updating All Packages
 
 Open the **MSYS2 MSYS** terminal and run the next update:
 

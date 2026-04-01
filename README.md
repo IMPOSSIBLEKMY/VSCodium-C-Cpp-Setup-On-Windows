@@ -70,7 +70,7 @@ To make tools like `g++`, `gdb`, and `clangd` globally accessible in VSCodium te
 1. Install the **Clangd** extension by `llvm-vs-code-extensions` in VSCodium.
 
 2. Open your **settings.json**
-or **Ctrl+Shift+P → “Preferences: Open Settings (JSON)”**.
+or **Ctrl+Shift+P → “Preferences: Open User Settings (JSON)”**.
 
 3. Add the following Clangd setting **(clangd.exe path in MinGW and MinGW C++ libraries)**:
     ```json

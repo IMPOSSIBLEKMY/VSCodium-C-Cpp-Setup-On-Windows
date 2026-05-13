@@ -94,7 +94,7 @@ or **Ctrl+Shift+P → “Preferences: Open User Settings (JSON)”**.
   - Click **Start Compilation**.
   - Then click **Run Executable**.
 
-4. To **debug** your `.cpp` files:
+4. To **debug** your .cpp files:
   - Open and **choose** the folder that contains your .cpp files in VSCodium.
   - Click **Start Compilation**.
   - Then click **Start Debugging**.

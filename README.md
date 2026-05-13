@@ -2,8 +2,8 @@
 
 This guide helps you set up a lightweight and powerful C++ development environment using:
 
-- [MSYS2](https://www.msys2.org/). MinGW-w64 GCC for compiling and debugging C++ code.
-- Clangd for intelligent code completion, diagnostics, and navigation.
+- [MSYS2](https://www.msys2.org/) - MinGW-w64 GCC for compiling and debugging C++ code.
+- Clangd - Intelligent code completion, diagnostics, and navigation.
 - [VSCodium](https://vscodium.com/).
 - Extensions in VSCodium:
   - **C++ Runner** by `franneck94`

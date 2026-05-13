@@ -48,9 +48,9 @@ To make tools like **g++**, **gdb**, and **clangd** globally accessible in VSCod
 
 2. In the **System Properties** window, click the **Environment Variables...** button.
 
-3. In the new **Environment Variables** window that opens, look under the **System variables** section, scroll down and find **path**.
+3. In the new **Environment Variables** window that opens, look under the **System variables** section, scroll down and find **Path**.
 
-4. Select **path** and click the **Edit** button.
+4. Select **Path** and click the **Edit** button.
 
 5. In the **Edit Environment Variable** window, click **New**.
 

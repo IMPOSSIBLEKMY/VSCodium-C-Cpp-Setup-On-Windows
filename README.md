@@ -18,7 +18,7 @@ This guide helps you set up a lightweight and powerful C++ development environme
    ```bash
    pacman -Syu
     ```
-> ⚠️ If the terminal shows **errors**, close the terminal, then reopen it and run **the same command** again.
+> **NOTE**: If the terminal shows **errors**, close the terminal, then reopen it and run **the same command** again.
 
 3. After the initial update is complete, run the second update to finish syncing packages:
    ```bash
@@ -41,7 +41,7 @@ Open the **MSYS2 MinGW64** and run:
     ```
 ## Step 3: Add to Environment PATH (Windows)
 
-To make tools like `g++`, `gdb`, and `clangd` globally accessible in VSCodium terminals and editors:
+To make tools like **g++**, **gdb**, and **clangd** globally accessible in VSCodium terminals and editors:
 
 1. Press **Win + S** or use the **Start Menu Search**, type **Environment Variables**, and open **Edit the system environment variables**.
 
@@ -87,15 +87,15 @@ or **Ctrl+Shift+P → “Preferences: Open User Settings (JSON)”**.
 
 2. Install the **C/C++ Debug (gdb)** extension by `KylinIdeTeam` in VSCodium.
 
-> 📝 These extensions handle their configurations for you — no additional configuration is needed.
+> **NOTE**: These extensions handle their configurations for you — no additional configuration is needed.
 
-3. To **run** your `.cpp` files:
-  - Open and **choose** the folder that contains your `.cpp` files in VSCodium.
+3. To **run** your .cpp files:
+  - Open and **choose** the folder that contains your .cpp files in VSCodium.
   - Click **Start Compilation**.
   - Then click **Run Executable**.
 
 4. To **debug** your `.cpp` files:
-  - Open and **choose** the folder that contains your `.cpp` files in VSCodium.
+  - Open and **choose** the folder that contains your .cpp files in VSCodium.
   - Click **Start Compilation**.
   - Then click **Start Debugging**.
 
